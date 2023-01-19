@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/ConnectToSever.unity
+    guid: c9dd0b50d44f6994d8a63529cf1f2638
+  - enabled: 1
     path: Assets/Scenes/Lobby.unity
     guid: 7cf9bd736c4157148b942a3c5f6b177e
   - enabled: 1
